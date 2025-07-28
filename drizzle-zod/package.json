@@ -1,5 +1,5 @@
 {
-	"name": "drizzle-zod",
+	"name": "@Fifth-Wheel-Freight/drizzle-zod",
 	"version": "0.8.5-my-fix",
 	"description": "Generate Zod schemas from Drizzle ORM schemas",
 	"type": "module",
@@ -29,7 +29,7 @@
 	"module": "./index.mjs",
 	"types": "./index.d.ts",
 	"publishConfig": {
-		"registry": "http://localhost:4873"
+  		"registry": "https://npm.pkg.github.com"
 	},
 	
 	"repository": {
