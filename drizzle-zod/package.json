@@ -1,6 +1,6 @@
 {
 	"name": "drizzle-zod",
-	"version": "0.8.2-my-fix",
+	"version": "0.8.4-my-fix",
 	"description": "Generate Zod schemas from Drizzle ORM schemas",
 	"type": "module",
 	"scripts": {
