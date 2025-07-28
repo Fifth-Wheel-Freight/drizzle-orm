@@ -1,6 +1,6 @@
 {
 	"name": "@fifth-wheel-freight/drizzle-zod",
-	"version": "0.8.7-my-fix",
+	"version": "0.8.8-my-fix",
 	"description": "Generate Zod schemas from Drizzle ORM schemas",
 	"type": "module",
 	"scripts": {
